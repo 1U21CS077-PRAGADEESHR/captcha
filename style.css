@@ -1,0 +1,31 @@
+.content{  
+    text-align: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-top: 10%;
+    border-radius: 5px;
+    padding: 5%;
+    width:max-content;
+    /* margin: 10% 35%; */
+    
+}
+body{
+    background-color: white;
+    
+}
+#btn{
+    background-color: green;
+    color: #fff;
+    padding: 5px 8px;
+    border: none;
+
+}
+#input{
+    border: black 1px solid;
+    padding: 5px;
+}
+.captcha{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
+
+}
+
